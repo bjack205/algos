@@ -1,3 +1,6 @@
+buildcode/
+build/
+
 # Prerequisites
 *.d
 

@@ -1,0 +1,1 @@
+algos_test(tsp tsp)
